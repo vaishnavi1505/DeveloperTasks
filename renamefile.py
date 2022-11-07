@@ -1,6 +1,6 @@
 import os
 
-folder = r'D:\OFFIS\Green\Results'
+folder = r'D:\mypath'
 count = 1
 # count increase by 1 in each iteration
 # iterate all files from a directory
