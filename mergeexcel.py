@@ -3,7 +3,7 @@ import glob
 import pandas as pd
 
 # specifying the path to csv files
-path = "D:/OFFIS/Green/Results"
+path = "D:/mypath"
 
 # csv files in the path
 file_list = glob.glob(path + "/*.xlsx")
